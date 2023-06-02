@@ -1,0 +1,3 @@
+#!/system/bin/sh
+echo "welcome to Ubuntu"
+proot-distro login ubuntu

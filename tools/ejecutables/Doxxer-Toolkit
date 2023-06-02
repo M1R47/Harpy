@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+hom=/data/data/com.termux/files/home/.tools
+bin=/data/data/com.termux/files/usr/bin/
+norm=/data/data/com.termux/files/home/Mtools/tools/ejecutables
+python3 $hom/Doxxer-Toolkit/dox.py

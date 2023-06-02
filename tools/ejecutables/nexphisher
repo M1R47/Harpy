@@ -1,0 +1,2 @@
+open=/data/data/com.termux/files/usr/opt/nexphisher
+bash ${open}/nexphisher

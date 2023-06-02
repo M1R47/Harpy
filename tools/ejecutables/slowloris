@@ -1,0 +1,9 @@
+#!/system/bin/sh
+
+if [[ "-n" == "$1" ]]; then
+echo "$1"
+else
+  #echo -e "$blanco[${rojo}+$blanco] operación invalida prueba con${verde} add help "
+   python3 /data/data/com.termux/files/home/.tools/slowloris/slowloris.py $1
+exit 1
+fi

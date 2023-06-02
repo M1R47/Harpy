@@ -1,0 +1,3 @@
+#!/system/bin/sh
+
+bash $HOME/.tools/AdminHack/AdminHack.sh

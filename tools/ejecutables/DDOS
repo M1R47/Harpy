@@ -1,0 +1,3 @@
+opt=/data/data/com.termux/files/usr/opt/DDOS/
+
+python2 $HOME/.tools/DDOS/ddos.py

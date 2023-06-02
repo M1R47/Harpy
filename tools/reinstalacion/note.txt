@@ -1,0 +1,8 @@
+https://github.com/mishakorzik/AdminHack
+
+	pkg install python3
+	pkg install php
+	pkg install toilet
+	pkg install python
+	python3 -m pip install requests
+	python3 -m pip install smtp

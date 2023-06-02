@@ -1,0 +1,11 @@
+AdminHack
+DDOS
+DoxTracker
+Doxxer-Toolkit
+Fake-SMS
+Root
+nexphisher
+routersploit
+termux-style
+torServer
+ubuntu
