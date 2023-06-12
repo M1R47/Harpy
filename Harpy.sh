@@ -83,7 +83,7 @@ read nombre
 cowsay -f eyes bienvenido ${nombre} > ${ba}/baner.txt
 echo "cat $HOME/Harpy/implement/baners/baner.txt | lolcat" > $HOME/.config/fish/config.fish
 echo alias ls=lsd >> /data/data/com.termux/files/home/.config/fish/config.fish
-rm $PREFIX/etc/motd
+#rm $PREFIX/etc/motd
 else
 echo "not fish
 yes|pkg install fish
