@@ -56,6 +56,7 @@ echo -e "${rojo}[${blanco}ok${rojo}]${blanco} termux"
 else
 #rm -rf .termux
 #cp -r Harpy/implement/termux/.termux -t $HOME
+sleep 1
 fi
 #==================
 #
