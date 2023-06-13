@@ -54,10 +54,6 @@ remove everything that is installed with the tool including Harpy
 
 > add soport
 
-contactos por telegram para solicitar errores o implementar herramientas 
-
-> add theme
-
 customize the home banner with the 11 available options 
 
 # execution of the tools 
